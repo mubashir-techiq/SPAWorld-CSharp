@@ -1,0 +1,12 @@
+2172|Facial Rejuvenation|5000|2
+4644|Microdermination|3000|2
+9663|Illuminating face and skin treatment|6000|2
+7165|Massage Therapy|3500|3
+9447|Luxury Manicure |3000|3
+3769|Luxury Pedicure|3500|3
+1954|Hand and Foot Massage|5000|3
+6107|Swedish Massage|5000|3
+4531|Waxing|2500|3
+4725|Hair trimming|2000|3
+3274|Eyelashes Extension|4000|2
+9979|Eyebrows tinting|3000|2

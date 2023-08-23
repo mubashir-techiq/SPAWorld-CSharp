@@ -1,0 +1,3 @@
+5794|5678|Zubair|Hand and Foot Massage|5000| | |6:00 AM|Tuesday|Approved
+2110|1234|aish|Waxing|2500| | |3:00 AM|Thursday|Payment Pending
+3150|1234|aish|Hair trimming|2000| | |3:00 AM|Tuesday|Approved

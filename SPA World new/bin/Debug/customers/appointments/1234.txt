@@ -1,0 +1,5 @@
+9300|1234|4567|aish|Halima|Hair trimming|2000|3:00 AM|Wednessday| | |Gone
+7018|1234|6789|aish|Hira|Eyelashes Extension|4000|12:00 AM|Monday|4.6|Good for Everything|Completed
+3666|1234|3456|aish|Sadaf |Waxing|2500|12:00 AM|Monday|3.5|Great Worker but not satisfied|Completed
+3150|1234|2345|aish|Amna |Hair trimming|2000|3:00 AM|Tuesday| | |Approved
+8323|1234|3456|aish|Sadaf |Hand and Foot Massage|5000|6:00 AM|Saturday| | |Payment Pending

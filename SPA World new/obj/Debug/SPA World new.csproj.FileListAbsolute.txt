@@ -1,0 +1,32 @@
+D:\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe.config
+D:\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe
+D:\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.pdb
+D:\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csprojResolveAssemblyReference.cache
+D:\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.exe
+D:\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.pdb
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe.config
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.exe
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.pdb
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csprojResolveAssemblyReference.cache
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe
+C:\Users\mubas\Desktop\University\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.pdb
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe.config
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.pdb
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csproj.AssemblyReference.cache
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csproj.SuggestedBindingRedirects.cache
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csproj.CoreCompileInputs.cache
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.exe
+F:\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.pdb
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe.config
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.exe
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.pdb
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.exe
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\SPA World new.pdb
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\mscorlib.dll
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\normidna.nlp
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\normnfc.nlp
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\normnfd.nlp
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\normnfkc.nlp
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\bin\Debug\normnfkd.nlp
+D:\usb\usb 2.0\University\1st Semester\PF\Project\SPA World new\SPA World new\obj\Debug\SPA World new.csprojResolveAssemblyReference.cache

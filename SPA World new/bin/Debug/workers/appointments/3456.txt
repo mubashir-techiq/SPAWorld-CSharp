@@ -1,0 +1,4 @@
+6676|5678|Zubair|Swedish Massage|5000| | |3:00 AM|Wednessday|Approved
+3666|1234|aish|Waxing|2500|3.5|Great Worker but not satisfied|12:00 AM|Monday|Completed
+8323|1234|aish|Hand and Foot Massage|5000| | |6:00 AM|Saturday|Payment Pending
+9970|2345|Mubashir|Hair trimming|2000| | |12:00 AM|Tuesday|Payment Pending
